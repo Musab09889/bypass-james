@@ -1,0 +1,2 @@
+import Bypass
+Bypass.startme()
